@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lamtran/Workspace/ReactNative/sample/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/lamtran/Workspace/ReactNative/sample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.46.4/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/lamtran/Workspace/ReactNative/sample/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/lamtran/Workspace/ReactNative/sample/android/app/build/intermediates/exploded-aar/ChatLoveCoderschool/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    }
+]
